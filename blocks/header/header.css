@@ -5,3 +5,22 @@
   display: flex;
   justify-content: space-between;
 }
+
+@media (min-width: 768px){
+  .header{
+    margin: 28px 24px 48px 24px;
+  }
+}
+
+@media (min-width: 1024px){
+  .header{
+    margin: 28px 24px 48px 24px;
+  }
+}
+
+@media (min-width: 1280px){
+  .header{
+    margin: 28px 24px 48px 24px;
+  }
+}
+
