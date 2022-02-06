@@ -1,1 +1,25 @@
-{\rtf1}
+.lead{
+  width: 100%;
+  margin-bottom: 64px;
+}
+
+@media (min-width: 768px){
+  .lead{
+
+    margin-bottom: 88px;
+  }
+}
+
+@media (min-width: 1024px){
+  .lead{
+    margin: 0 auto 114px auto;
+    width: 928px;
+  }
+}
+
+@media (min-width: 1280px){
+  .lead{
+    width: 984px;
+
+  }
+}
