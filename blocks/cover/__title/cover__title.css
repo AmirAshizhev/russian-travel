@@ -8,5 +8,19 @@
   color: #FFFFFF;
   margin-top: 0;
   margin-bottom: 16px;
-  padding-top: 33px;
+
 }
+
+@media (min-width: 768px){
+  .cover__title{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 76px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 32px;
+  }
+}
+

@@ -1,6 +1,27 @@
 .cover{
-  min-width: calc(100% - 32px);
-  min-height: 200px;
+
   background-image: url(../../images/__background.jpg);
   background-size: cover;
+  padding: 33px 16px;
 }
+
+@media (min-width: 768px){
+  .cover{
+  padding: 115px 104px;
+
+  }
+}
+
+@media (min-width: 1024px){
+  .cover{
+  padding: 195px 232px;
+  }
+}
+
+@media (min-width: 1280px){
+  .cover{
+    padding: 245px 312px;
+
+  }
+}
+
