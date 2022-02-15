@@ -1,0 +1,17 @@
+.footer__links{
+list-style: none;
+text-decoration: none;
+margin: 0;
+padding: 0;
+display: grid;
+row-gap: 32px;
+}
+
+@media(min-width: 768px){
+  .footer__links{
+    width: 457px;
+    display: flex;
+    justify-content: space-between;
+
+  }
+}
