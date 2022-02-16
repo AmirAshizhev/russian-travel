@@ -13,39 +13,21 @@
 
 @media (min-width: 768px){
   .cover__title{
-    font-family: Inter;
-    font-style: normal;
     font-weight: 900;
     font-size: 72px;
     line-height: 76px;
-    text-align: center;
-    color: #FFFFFF;
     margin-bottom: 32px;
   }
 }
 
 @media (min-width: 1024px){
   .cover__title{
-    font-family: Inter;
-    font-style: normal;
-    font-weight: 900;
-    font-size: 72px;
-    line-height: 76px;
-    text-align: center;
-    color: #FFFFFF;
     margin-bottom: 50px;
   }
 }
 
 @media (min-width: 1280px){
   .cover__title{
-    font-family: Inter;
-    font-style: normal;
-    font-weight: 900;
-    font-size: 72px;
-    line-height: 76px;
-    text-align: center;
-    color: #FFFFFF;
     margin-bottom: 142px;
   }
 }
