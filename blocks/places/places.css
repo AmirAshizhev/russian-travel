@@ -2,5 +2,20 @@
 display: grid;
 list-style: none;
 padding: 0;
-margin-bottom: 70px;
+margin-bottom: 66px;
+row-gap: 50px;
+}
+
+@media (min-width: 768px){
+  .places{
+    row-gap: 51px;
+    margin-bottom: 67px;
+  }
+}
+
+@media (min-width: 1024px){
+  .places{
+    row-gap: 0px;
+    margin-bottom: 11px;
+  }
 }
