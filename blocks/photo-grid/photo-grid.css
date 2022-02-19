@@ -4,6 +4,7 @@
   row-gap: 12px;
   margin: 0 16px 64px 16px;
   list-style: none;
+  padding: 0;
 }
 
 @media (min-width: 768px){
