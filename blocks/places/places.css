@@ -1,9 +1,9 @@
 .places{
-display: grid;
-list-style: none;
-padding: 0;
-margin-bottom: 66px;
-row-gap: 50px;
+  display: grid;
+  list-style: none;
+  padding: 0;
+  margin-bottom: 66px;
+  row-gap: 50px;
 }
 
 @media (min-width: 768px){

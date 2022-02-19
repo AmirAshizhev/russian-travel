@@ -1,8 +1,5 @@
 .cover{
-  background-image: url(../../images/__background.jpg);
-  background-size: cover;
   max-width: 1184px;
-  position: relative;
 }
 
 @media (min-width: 1024px){

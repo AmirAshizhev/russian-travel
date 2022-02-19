@@ -9,14 +9,15 @@
   margin-top: 0;
   margin-bottom: 16px;
   position: relative;
+  max-width: 288px;
 }
 
 @media (min-width: 768px){
   .cover__title{
-    font-weight: 900;
     font-size: 72px;
     line-height: 76px;
     margin-bottom: 32px;
+    max-width: 560px;
   }
 }
 

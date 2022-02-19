@@ -1,8 +1,8 @@
 .photo-grid{
-display: grid;
-min-width: 288px;
-row-gap: 12px;
-margin: 0 16px 64px 16px;
+  display: grid;
+  min-width: 288px;
+  row-gap: 12px;
+  margin: 0 16px 64px 16px;
 }
 
 @media (min-width: 768px){
