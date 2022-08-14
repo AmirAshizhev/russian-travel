@@ -15,4 +15,4 @@
 * адаптиваня верстка
 
 ### Ссылка на проект
-[Нажми на меня](https://amirashizhev.github.io/russian-travel/
+[Нажми на меня](https://amirashizhev.github.io/russian-travel/)
